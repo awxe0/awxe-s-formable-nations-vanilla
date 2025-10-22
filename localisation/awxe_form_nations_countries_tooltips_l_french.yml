@@ -1,0 +1,14 @@
+﻿l_french:
+ germany_expansion_continued_requirement_tooltip:0 "Contrôle §YAlsace-Lorraine§! ou §YHaut-Adige§!."
+ highlighted_state_tooltip:0 "Contrôle tous les États mis en surbrillance."
+ asia_requirement_tooltip:0 "Contrôle toute l'§YAsie§! à l'exception des petites îles du §YPacifique§!."
+ eurasia_requirement_tooltip:0 "Contrôle toute l'§YEurasie§! à l'exception des petites îles du §YPacifique§! et de l'§YAtlantique§!."
+ afro_eurasia_requirement_tooltip:0 "Contrôle de l'§YAfrique§!, de l'§YAsie§! et de l'§YEurope§!, à l'exclusion des petites îles éloignées."
+ africa_requirement_tooltip:0 "Contrôle tous les États §Ycontinentaux§! en §YAfrique§!."
+ europe_requirement_tooltip:0 "Contrôle tous les États §Ycontinentaux§! en §YEurope§!."
+ south_america_requirement_tooltip:0 "Contrôle toute l'§YAmérique du Sud§! et les îles ayant une connexion avec le continent."
+ north_america_requirement_tooltip:0 "Contrôle toutes les parties continentales de l'§YAmérique du Nord§!, ainsi que les îles éloignées §Ycanadiennes§!."
+ middle_east_requirement_tooltip:0 "Contrôle toute l §YMoyen-Orient§!"
+ britain_requirement_tooltip:0 "Contrôle l'ensemble des §YÎles Britanniques§!."
+
+ is_puppet_tooltip:0 "N'est pas une marionnette."

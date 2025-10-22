@@ -1,0 +1,14 @@
+﻿l_german:
+ germany_expansion_continued_requirement_tooltip:0 "Kontrolliert §YElsass-Lothringen§! oder §YSüdtirol§!."
+ highlighted_state_tooltip:0 "Kontrolliert alle hervorgehobenen Staaten."
+ asia_requirement_tooltip:0 "Kontrolliert ganz §YAsien§! außer kleinen §YPazifik§!-Inseln."
+ eurasia_requirement_tooltip:0 "Kontrolliert ganz §YEurasien§! außer kleinen §YPazifik§!- und §YAtlantik§!-Inseln."
+ afro_eurasia_requirement_tooltip:0 "Kontrolliert §YAfrika§!, §YAsien§! und §YEuropa§!, ausgenommen kleine abgelegene Inseln."
+ africa_requirement_tooltip:0 "Kontrolliert alle §Ykontinentalen§! Staaten in §YAfrika§!."
+ europe_requirement_tooltip:0 "Kontrolliert alle §Ykontinentalen§! Staaten in §YEuropa§!."
+ south_america_requirement_tooltip:0 "Kontrolliert ganz §YSüdamerika§! und Inseln mit Verbindung zum Festland."
+ north_america_requirement_tooltip:0 "Kontrolliert alle Festlandteile von §YNordamerika§! sowie abgelegene §Ykanadische§! Inseln."
+ middle_east_requirement_tooltip:0 "Kontrolliert ganz §YMittlerer Osten§!"
+ britain_requirement_tooltip:0 "Kontrolliert alle §YBritischen Inseln§!."
+
+ is_puppet_tooltip:0 "Ist keine Marionette."

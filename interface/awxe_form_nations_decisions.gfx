@@ -1,0 +1,650 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_decision_formable_nations_baltic"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_baltic.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_lithuania"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_lithuania.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_commonwealth"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_commonwealth.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_finland"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_finland.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_scandinavia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_scandinavia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_swedish_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_swedish_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_austria_hungary"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_austria_hungary.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_austria"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_austria.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_grossdeutschland"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_grossdeutschland.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_hre"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_hre.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_frankish_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_frankish_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_europe"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_europe.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_world"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_world.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_zapadoslavia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_zapadoslavia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_great_moravia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_great_moravia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_hungarian_kingdom"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_hungarian_kingdom.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_poland_hungary"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_poland_hungary.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_anglosphere"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_anglosphere.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_africa"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_africa.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_iberia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_iberia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_benelux"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_benelux.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_angevin_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_angevin_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_russia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_russia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_gran_colombia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_gran_colombia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_peru_bolivia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_peru_bolivia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_mughals"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_mughals.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_china"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_china.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_chinese_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_chinese_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_mongol_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_mongol_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_tibet"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_tibet.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_japan"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_japan.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_indochina"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_indochina.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_australasia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_australasia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_latin_union"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_latin_union.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_north_sea_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_north_sea_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_great_britain"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_great_britain.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_arabia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_arabia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_transcaucasia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_transcaucasia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_central_america"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_central_america.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_kievan_rus"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_kievan_rus.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_bulgarian_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_bulgarian_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_mexican_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_mexican_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_albania"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_albania.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_balkan"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_balkan.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_macedonian_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_macedonian_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_south_america"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_south_america.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_ottomans"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_ottomans.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_israel"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_israel.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_persian_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_persian_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_inca_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_inca_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_turkestan"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_turkestan.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_yugoslavia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_yugoslavia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_abyssinia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_abyssinia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_north_america"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_north_america.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_egypt"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_egypt.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_hispaniola"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_hispaniola.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_caribbean"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_caribbean.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_golden_circle"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_golden_circle.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_maghreb"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_maghreb.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_canada"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_canada.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_visegrad"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_visegrad.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_la_plata"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_la_plata.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_celtic_union"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_celtic_union.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_alpine_federation"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_alpine_federation.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_croatia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_croatia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_serbia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_serbia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_chile_argentina"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_chile_argentina.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_assyria"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_assyria.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_carpathia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_carpathia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_asia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_asia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_eurasia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_eurasia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_carthage"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_carthage.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_east_africa"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_east_africa.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_mali_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_mali_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_sahel"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_sahel.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_afro_eurasia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_afro_eurasia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_levant"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_levant.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_korea"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_korea.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_middle_east"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_middle_east.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_khmer_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_khmer_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_bengal_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_bengal_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_guyanas"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_guyanas.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_americas"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_americas.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_andes"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_andes.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_south_german_federation"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_south_german_federation.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_north_german_federation"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_north_german_federation.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_germany"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_germany.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_byzantium"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_byzantium.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_west_rome"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_west_rome.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_roman_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_roman_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_intermarium"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_intermarium.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_italy"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_italy.tga"
+	}
+	spriteType = { #Copyrighted by awxe
+		name = "GFX_decision_formable_nations_french_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_french_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_akhand_bharat"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_akhand_bharat.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_durrani_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_durrani_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_umayyad_caliphate"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_umayyad_caliphate.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_southeast_asia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_southeast_asia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_ghaznavid_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_ghaznavid_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_afsharid_dynasty"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_afsharid_dynasty.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_illyrian_kingdom"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_illyrian_kingdom.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_bantu"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_bantu.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_oceania"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_oceania.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_pirates"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_pirates.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_pala_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_pala_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_denmark_norway"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_denmark_norway.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_mamluk"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_mamluk.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_georgia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_georgia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_megali_idea"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_megali_idea.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_hellenoturkism"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_hellenoturkism.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_great_ottomans"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_great_ottomans.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_golden_horde"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_golden_horde.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_unified_korea"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_unified_korea.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_bani_khalid"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_bani_khalid.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_sasanian_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_sasanian_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_qajar_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_qajar_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_seljuk_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_seljuk_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_europe_unity"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_europe_unity.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_ming"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_ming.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_xiongnu"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_xiongnu.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_babylonian"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_babylonian.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_hispanic_america"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_hispanic_america.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_phoenicia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_phoenicia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_pan_slavic"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_pan_slavic.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_thracia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_thracia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_aksum"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_aksum.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_srivijaya"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_srivijaya.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_danubian"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_danubian.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_great_nordic"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_great_nordic.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_hun_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_hun_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_gokturk"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_gokturk.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_spanish_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_spanish_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_timurid"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_timurid.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_skibidi"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_skibidi.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_greater_italy"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_greater_italy.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_cossack"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_cossack.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_german_colonial"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_german_colonial.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_danish_colonial"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_danish_colonial.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_dutch_colonial"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_dutch_colonial.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_portuguese_colonial"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_portuguese_colonial.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_pontus"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_pontus.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_abbasid_caliphate"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_abbasid_caliphate.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_jerusalem"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_jerusalem.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_adriatic"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_adriatic.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_outremer"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_outremer.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_philippine_empire"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_philippine_empire.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_prussia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_prussia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_zaidi"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_zaidi.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_ostrogothic"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_ostrogothic.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_visigothic"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_visigothic.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_andalus"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_andalus.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_vandal"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_vandal.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_romano_gothia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_romano_gothia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_bulgaria_romania"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_bulgaria_romania.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_austro_slovakia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_austro_slovakia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_polish_swedish"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_polish_swedish.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_franco_spanish"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_franco_spanish.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_fennoscandia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_fennoscandia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_aragon"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_aragon.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_burgundy"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_burgundy.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_lotharingia"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_lotharingia.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_gallic"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_gallic.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_carolingian"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_carolingian.tga"
+	}
+}

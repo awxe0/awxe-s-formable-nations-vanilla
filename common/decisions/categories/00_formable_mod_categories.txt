@@ -1,0 +1,96 @@
+formable_nations_mod_category = {
+	icon = formable_nations_abyssinia
+	priority = 5
+	
+	formable_abyssinia_category = {
+	visible = {
+		NOT = { has_global_flag = rt56rp_formables_disabled_gflag }
+		has_country_flag = display_formable_requirements_cflag
+		has_country_flag = display_abyssinia_requirements_cflag
+		is_ai = no
+	}
+
+	priority = 5
+
+	on_map_area = {
+		name = formable_abyssinia_map_area
+		target_array = global.r56_formables_states_array
+		target_trigger = {
+			FROM = {
+				OR = {
+					state = 271
+				state = 835
+				state = 836
+				state = 837
+				state = 838
+				state = 839
+				state = 840
+				state = 841
+				state = 842
+				state = 908
+				state = 843
+				state = 269
+				state = 559
+				state = 844
+				state = 550
+				state = 268
+				}
+			}
+		}
+		zoom = 800
+	}
+ }
+}
+
+formable_nations_latin_africa_category = {
+	icon = formable_nations_latin_africa
+	highlight_states = {
+		highlight_state_targets = {
+			state = 774
+			state = 775
+
+			state = 660
+
+			state = 773
+
+			state = 297
+
+			state = 539
+
+			state = 772
+
+			state = 540
+			state = 891
+			state = 892
+			state = 796
+			state = 768
+			state = 769
+			state = 295
+			state = 538
+			state = 718
+			state = 890
+			state = 888
+			state = 889
+		}
+	}
+}
+
+formable_nations_polynesia_category = {
+	icon = formable_nations_polynesia
+	highlight_states = {
+		highlight_state_targets = {
+			state = 284
+			state = 723
+
+			state = 641
+			state = 775
+
+			state = 629
+			state = 630
+			state = 727
+			state = 642
+
+			state = 643
+		}
+	}
+}

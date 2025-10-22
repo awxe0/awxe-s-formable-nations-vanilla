@@ -1,0 +1,14 @@
+﻿l_spanish:
+ germany_expansion_continued_requirement_tooltip:0 "Controla §YAlsacia-Lorena§! o §YAlto Adige§!."
+ highlighted_state_tooltip:0 "Controla todos los estados resaltados."
+ asia_requirement_tooltip:0 "Controla todo §YAsia§! excepto las pequeñas islas del §YPacífico§!."
+ eurasia_requirement_tooltip:0 "Controla todo §YEurasia§! excepto las pequeñas islas del §YPacífico§! y del §YAtlántico§!."
+ afro_eurasia_requirement_tooltip:0 "Controla §YÁfrica§!, §YAsia§! y §YEuropa§!, excluyendo las pequeñas islas periféricas."
+ africa_requirement_tooltip:0 "Controla todos los estados §Ycontinentales§! de §YÁfrica§!."
+ europe_requirement_tooltip:0 "Controla todos los estados §Ycontinentales§! de §YEuropa§!."
+ south_america_requirement_tooltip:0 "Controla todo §YAmérica del Sur§! y las islas con conexión al continente."
+ north_america_requirement_tooltip:0 "Controla todas las partes continentales de §YAmérica del Norte§!, así como las islas periféricas §Ycanadienses§!."
+ middle_east_requirement_tooltip:0 "Controla todo §YOriente Medio§."
+ britain_requirement_tooltip:0 "Controla todas las §YIslas Británicas§!."
+ 
+ is_puppet_tooltip:0 "No es una marioneta."

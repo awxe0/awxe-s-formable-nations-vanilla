@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_main_menu_banner" 
+		texturefile = "gfx/interface/main_menu_banner.tga"
+	}
+}

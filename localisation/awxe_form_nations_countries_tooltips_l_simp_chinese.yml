@@ -1,0 +1,14 @@
+﻿l_simp_chinese:
+ germany_expansion_continued_requirement_tooltip:0 "控制§Y阿尔萨斯-洛林§!或§Y南蒂罗尔§!。"
+ highlighted_state_tooltip:0 "控制所有高亮显示的州。"
+ asia_requirement_tooltip:0 "控制除§Y太平洋§!小岛外的整个§Y亚洲§!。"
+ eurasia_requirement_tooltip:0 "控制除§Y太平洋§!和§Y大西洋§!小岛外的整个§Y欧亚大陆§!。"
+ afro_eurasia_requirement_tooltip:0 "控制§Y非洲§!、§Y亚洲§!和§Y欧洲§!，不包括外围小岛。"
+ africa_requirement_tooltip:0 "控制§Y非洲§!的所有§Y大陆§!州。"
+ europe_requirement_tooltip:0 "控制§Y欧洲§!的所有§Y大陆§!州。"
+ south_america_requirement_tooltip:0 "控制整个§Y南美洲§!及与大陆相连的岛屿。"
+ north_america_requirement_tooltip:0 "控制§Y北美洲§!所有大陆部分及外围§Y加拿大§!岛屿。"
+ middle_east_requirement_tooltip:0 "控制整个§Y中东§!。"
+ britain_requirement_tooltip:0 "控制整个§Y不列颠群岛§!。"
+ 
+ is_puppet_tooltip:0 "不是傀儡。"

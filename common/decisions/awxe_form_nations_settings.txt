@@ -1,0 +1,35 @@
+formable_nations_mod_category = {
+	hide_decisions = {
+		ai_will_do = {
+			factor = 0
+		}
+		cost = 0
+		visible = {
+			is_ai = no
+			NOT = { has_global_flag = hide_formable_nations }
+			NOT = { has_country_flag = unform_available }
+		}
+		days_re_enable = 0
+		
+		icon = generic_nationalism
+		complete_effect = {
+			hidden_effect = { set_global_flag = hide_formable_nations }
+		}
+	}
+	unhide_decisions = {
+		ai_will_do = {
+			factor = 0
+		}
+		cost = 0
+		visible = {
+			is_ai = no
+			has_global_flag = hide_formable_nations
+		}
+		days_re_enable = 0
+		
+		icon = generic_nationalism
+		complete_effect = {
+			hidden_effect = { clr_global_flag = hide_formable_nations }
+		}
+	}
+}
