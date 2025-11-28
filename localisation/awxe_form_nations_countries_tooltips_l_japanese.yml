@@ -1,0 +1,14 @@
+﻿l_japanese:
+ germany_expansion_continued_requirement_tooltip:0 "§Yアルザス-ロレーヌ§! または §Yアルト・アディジェ§! を制御します。"
+ highlighted_state_tooltip:0 "すべてのハイライトされた州を制御します。"
+ asia_requirement_tooltip:0 "小さな§Y太平洋§!島々を除くすべての§Yアジア§!を制御します。"
+ eurasia_requirement_tooltip:0 "小さな§Y太平洋§!および§Y大西洋§!島々を除くすべての§Yユーラシア§!を制御します。"
+ afro_eurasia_requirement_tooltip:0 "小さな離島を除く§Yアフリカ§!、§Yアジア§!、§Yヨーロッパ§!を制御します。"
+ africa_requirement_tooltip:0 "§Yアフリカ§!のすべての§Y大陸§!州を制御します。"
+ europe_requirement_tooltip:0 "§Yヨーロッパ§!のすべての§Y大陸§!州を制御します。"
+ south_america_requirement_tooltip:0 "本土と接続された島々を含むすべての§Y南アメリカ§!を制御します。"
+ north_america_requirement_tooltip:0 "離島の§Yカナダ§!島々を含むすべての§Y北アメリカ§!本土部分を制御します。"
+ middle_east_requirement_tooltip:0 "すべての§Y中東§!を制御します。"
+ britain_requirement_tooltip:0 "すべての§Yイギリス諸島§!を制御します。"
+ 
+ is_puppet_tooltip:0 "人形ではない。"

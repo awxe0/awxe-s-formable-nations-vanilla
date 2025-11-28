@@ -1,0 +1,14 @@
+﻿l_korean:
+ germany_expansion_continued_requirement_tooltip:0 "§Y알자스-로렌§! 또는 §Y알토 아디제§!를 점령하고 있어야 합니다."
+ highlighted_state_tooltip:0 "강조 표시된 모든 주를 점령하고 있어야 합니다."
+ asia_requirement_tooltip:0 "작은 §Y태평양§! 제도를 제외한 §Y아시아§! 전체를 점령하고 있어야 합니다."
+ eurasia_requirement_tooltip:0 "작은 §Y태평양§! 및 §Y대서양§! 제도를 제외한 §Y유라시아§! 전체를 점령하고 있어야 합니다."
+ afro_eurasia_requirement_tooltip:0 "작은 외곽 섬들을 제외한 §Y아프리카§!, §Y아시아§!, §Y유럽§!을 모두 점령하고 있어야 합니다."
+ africa_requirement_tooltip:0 "§Y아프리카§! 대륙의 모든 주를 점령하고 있어야 합니다."
+ europe_requirement_tooltip:0 "§Y유럽§! 대륙의 모든 주를 점령하고 있어야 합니다!"
+ south_america_requirement_tooltip:0 "§Y남아메리카§! 전체와 본토와 연결된 섬들을 점령하고 있어야 합니다."
+ north_america_requirement_tooltip:0 "§Y북아메리카§! 본토 전체와 외곽 §Y캐나다§! 제도를 점령하고 있어야 합니다."
+ middle_east_requirement_tooltip:0 "§Y중동§! 전체를 점령하고 있어야 합니다."
+ britain_requirement_tooltip:0 "§Y영국 제도§! 전체를 점령하고 있어야 합니다."
+ 
+ is_puppet_tooltip:0 "괴뢰국이 아닙니다."

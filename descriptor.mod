@@ -1,4 +1,4 @@
-version="1.4"
+version="1.5"
 tags={
 	"Alternative History"
 	"Graphics"
@@ -8,4 +8,4 @@ tags={
 	"Gameplay"
 }
 name="awxe's Formable Nations"
-supported_version="1.16.*"
+supported_version="1.17.*"

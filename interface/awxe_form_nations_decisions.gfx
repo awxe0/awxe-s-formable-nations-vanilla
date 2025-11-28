@@ -647,4 +647,68 @@ spriteTypes = {
 		name = "GFX_decision_formable_nations_carolingian"
 		texturefile = "gfx/interface/decisions/decision_formable_nations_carolingian.tga"
 	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_himalayas"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_himalayas.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_goguryeo"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_goguryeo.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_druk"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_druk.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_yuan"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_yuan.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_liao"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_liao.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_avar"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_avar.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_crimea"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_crimea.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_chagatai"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_chagatai.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_kyrgyz"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_kyrgyz.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_uyghur"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_uyghur.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_ilkhanate"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_ilkhanate.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_pan_malay"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_pan_malay.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_qara_qoyunlu"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_qara_qoyunlu.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_aq_qoyunlu"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_aq_qoyunlu.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_chola"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_chola.tga"
+	}
+	spriteType = {
+		name = "GFX_decision_formable_nations_tang"
+		texturefile = "gfx/interface/decisions/decision_formable_nations_tang.tga"
+	}
 }
