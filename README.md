@@ -8,7 +8,7 @@ Abbasid Caliphate - Abyssinia - Adriatic - Afsharid Dynasty - Akhand Bharat - Al
 
 FEATURES
 
-• +150 Formable Nations  
+• +170 Formable Nations  
 • Full integration with Road to 56  
 • Custom flags, colors, decisions, and cores  
 • Accurate historical & cultural naming  
